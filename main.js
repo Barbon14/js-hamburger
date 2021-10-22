@@ -20,7 +20,7 @@ hamMenuClose.addEventListener('click',
 
     // rimuova la classe active dal div dell hamburger menu per nasconderlo
     function () {
-        hamMenu.classList.remove('active')
+        hamMenu.classList.remove('active');
     }
 
 );
